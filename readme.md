@@ -4,9 +4,8 @@
 
 ## ESE5180: IoT Wireless, Security, & Scaling
 
-## 1 GitHub URL
-<https://github.com/ese5180/fp-f24-iot-venture-pitch-threebot>
-
+## 1 GitHub Pages URL
+https://ese5180.github.io/fp-f24-report-website-t06-chargeguard/
 ## 2 Team Selection
 
 Team Name: ThreeBot

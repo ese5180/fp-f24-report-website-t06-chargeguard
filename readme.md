@@ -292,25 +292,25 @@ In-Class Pitch Slide link: <https://docs.google.com/presentation/d/1llyvdfKQ1blR
 
 1. SparkFun Environmental Sensor - BME688 (Qwiic)
 
-The SparkFun BME688 Environmental Sensor is a breakout that combines a gas scanning sensor with temperature, humidity, and barometric pressure sensing for a complete environmental sensor in a single package. The gas sensor on the BME688 can detect a wide variety of volatile organic compounds (VOCs), volatile sulfur compounds (VSCs), and other gases such as carbon monoxide and hydrogen in the part per billion (ppb) range. Combine that with precise temperature, humidity, and barometric pressure and the BME688 can work as a completely standalone environmental sensor all in a 1in. x 1in. breakout!
+   The SparkFun BME688 Environmental Sensor is a breakout that combines a gas scanning sensor with temperature, humidity, and barometric pressure sensing for a complete environmental sensor in a single package. The gas sensor on the BME688 can detect a wide variety of volatile organic compounds (VOCs), volatile sulfur compounds (VSCs), and other gases such as carbon monoxide and hydrogen in the part per billion (ppb) range. Combine that with precise temperature, humidity, and barometric pressure and the BME688 can work as a completely standalone environmental sensor all in a 1in. x 1in. breakout!
 The sensor communicates via either I2C or SPI. We've broken out the I2C pins to our Qwiic system so no soldering is required to connect it to the rest of your system but if you would prefer, both the I2C and SPI pins are also broken out to standard 0.1in.-spaced pins.
 
-link: <https://www.sparkfun.com/products/19096>
+   link: <https://www.sparkfun.com/products/19096>
 
 2. INA 219
 
-The INA219 is a current shunt and power monitor with an I²C- or SMBUS-compatible interface. The device monitors both shunt voltage drop and bus supply voltage, with programmable conversion times and filtering. A programmable calibration value, combined with an internal multiplier, enables direct readouts of current in amperes. An additional multiplying register calculates power in watts. The I²C- or SMBUS-compatible interface features 16 programmable addresses.
+   The INA219 is a current shunt and power monitor with an I²C- or SMBUS-compatible interface. The device monitors both shunt voltage drop and bus supply voltage, with programmable conversion times and filtering. A programmable calibration value, combined with an internal multiplier, enables direct readouts of current in amperes. An additional multiplying register calculates power in watts. The I²C- or SMBUS-compatible interface features 16 programmable addresses.
 The INA219 is available in two grades: A and B. The B grade version has higher accuracy and higher precision specifications.
 The INA219 senses across shunts on buses that can vary from 0 to 26 V. The device uses a single 3- to 5.5-V supply, drawing a maximum of 1 mA of supply current. The INA219 operates from –40°C to 125°C.
 
-link: <https://www.ti.com/product/INA219>
+   link: <https://www.ti.com/product/INA219>
 
 3. Nordic nrf9160 DK
 
-Cellular IoT development kit for LTE-M, NB-IoT, GNSS and Bluetooth LE
-The nRF9160 DK is an affordable, pre-certified single-board development kit for evaluation and development on the nRF9160 SiP for LTE-M, NB-IoT and GNSS. It also includes an nRF52840 board controller that for example can be used to build a Bluetooth Low Energy gateway.
+   Cellular IoT development kit for LTE-M, NB-IoT, GNSS and Bluetooth LE
+   The nRF9160 DK is an affordable, pre-certified single-board development kit for evaluation and development on the nRF9160 SiP for LTE-M, NB-IoT and GNSS. It also includes an nRF52840 board controller that for example can be used to build a Bluetooth Low Energy gateway.
 
-link: <https://www.nordicsemi.com/Products/Development-hardware/nRF9160-DK>
+   link: <https://www.nordicsemi.com/Products/Development-hardware/nRF9160-DK>
 
 ### 7.2 Reflections
 

@@ -263,9 +263,7 @@ Total price: **$27.76**
 
 In-Class Pitch Slide link: <https://docs.google.com/presentation/d/1llyvdfKQ1blRosNVRXC3DB5YL2_zz5amqAI0si4eB_U/edit?usp=sharing>
 
-## 6 Fleet Management
-
-**Functionality Demonstration**
+## 6 Functionality Demonstration
 
 1. Demo 1 - Unauthorized Charger Removal Alert During Charge 
 [Demo 1 - Unauthorized Charger Removal Alert During Charge](<https://youtu.be/6NRJFWNuwhE>)

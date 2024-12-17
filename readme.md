@@ -265,6 +265,13 @@ In-Class Pitch Slide link: <https://docs.google.com/presentation/d/1llyvdfKQ1blR
 
 ## 6 Functionality Demonstration
 
+<figure>
+    <img src="demo_circuit.png"
+         alt="demo_circuit"
+         width="600">
+    <figcaption>MVP Demo</figcaption>
+</figure>
+
 1. Demo 1 - Unauthorized Charger Removal Alert During Charge 
 [Demo 1 - Unauthorized Charger Removal Alert During Charge](<https://youtu.be/6NRJFWNuwhE>)
 

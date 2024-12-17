@@ -266,7 +266,7 @@ In-Class Pitch Slide link: <https://docs.google.com/presentation/d/1llyvdfKQ1blR
 ## 6 Functionality Demonstration
 
 <figure>
-    <img src="demo_circuit.png"
+    <img src="demo_circuit.jpg"
          alt="demo_circuit"
          width="600">
     <figcaption>MVP Demo</figcaption>

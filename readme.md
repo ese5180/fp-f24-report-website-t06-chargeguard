@@ -268,7 +268,7 @@ In-Class Pitch Slide link: <https://docs.google.com/presentation/d/1llyvdfKQ1blR
 <figure>
     <img src="demo_circuit.jpg"
          alt="demo_circuit"
-         width="600">
+         height="600">
     <figcaption>MVP Demo</figcaption>
 </figure>
 

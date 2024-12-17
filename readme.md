@@ -146,7 +146,7 @@ Our hardware core is a microcontroller unit (MCU) with cellular functionality, a
 
 * HRS 09 - A transistor switch that can be controlled by the MCU via GPIO to control the on/off of the high voltage charging circuit.
 
-### g4.4 Software Requirements Specification
+### 4.4 Software Requirements Specification
 
 #### 4.4.1 Overview
 
